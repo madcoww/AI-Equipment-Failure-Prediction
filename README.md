@@ -1,0 +1,54 @@
+# AI Equipment Failure Prediction
+
+「설비 고장을 예측하는 AI 데이터 분석」 수업의 실습 코드, 과제, 데이터, 강의자료와 노션 정리본을 함께 모은 학습 저장소입니다.
+
+## 폴더 구성
+
+| 경로 | 내용 |
+| --- | --- |
+| [practice/](practice/) | 일차별 실습 코드와 Jupyter Notebook, 실습 관련 파일 |
+| [homework/](homework/) | 과제 풀이 Notebook과 PDF |
+| [data/](data/) | CSV·Excel 데이터, 통계 학습 예제와 참고자료 |
+| [lectures/](lectures/) | 수업에 사용하는 강의 PDF |
+
+## 학습 내용
+
+- Python 기초
+- NumPy·Pandas를 활용한 데이터 처리와 분석
+- MySQL·SQL 기초
+- Git·GitHub를 활용한 학습 기록 관리
+
+## 실습 파일 사용 방법
+
+VS Code 또는 Jupyter에서 `practice/`의 실습 파일을 열어 실행합니다. Notebook(`.ipynb`)은 맨 위 코드 칸부터 차례로 실행합니다.
+
+실습에 필요한 라이브러리를 설치하고, 데이터 경로는 자신의 파일 위치에 맞게 수정해 주세요.
+
+## 노션 정리본 달력
+
+**📘 수업 정리 · 🏭 견학 · 🎤 특강·비직무 교육**
+
+날짜 또는 아이콘을 누르면 해당 노션 정리본이 열립니다.
+
+### 2026년 9월
+
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  |  | 1 | 2 | 3 | 4 | 5 |
+| 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| 13 | 14 | [15 📘](https://app.notion.com/3e249b7c93d781fc989bfea9dd5b5f67) | [16 📘](https://app.notion.com/3e249b7c93d781a4a5f2f3736dabeb76) | [17 📘](https://app.notion.com/3e249b7c93d781aab6b8c39444b6301e) | 18 [📘](https://app.notion.com/3e249b7c93d781feadb2f474e3ac5ef3) [🎤](https://app.notion.com/3df49b7c93d781db95e5f6ac7bbfd5da) | 19 |
+| 20 | [21 📘](https://app.notion.com/3ff49b7c93d78109bddbdcb2050f425a) | [22 📘](https://app.notion.com/3e349b7c93d78149b8f1fac71f602123) | [23 🏭](https://app.notion.com/3e449b7c93d7815eba43d041c6775725) | 24 | 25 | 26 |
+| 27 | [28 📘](https://app.notion.com/3e949b7c93d7819e9e97e5c0cf7cf2aa) | [29 📘](https://app.notion.com/3ea49b7c93d7812c8951f1561c71aaf7) | [30 📘](https://app.notion.com/3eb49b7c93d7816b84dee0a21991f344) |  |  |  |
+
+### 2026년 10월
+
+| 일 | 월 | 화 | 수 | 목 | 금 | 토 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+|  |  |  |  | [1 📘](https://app.notion.com/3ec49b7c93d7819abf7aececc9db90c8) | 2 [📘](https://app.notion.com/3ed49b7c93d7815abceece89bc81ac86) [🎤](https://app.notion.com/3ed49b7c93d781f585cadf24718bd659) | 3 |
+| 4 | 5 | [6 📘](https://app.notion.com/3ef49b7c93d78112a119f33efb81c022) | [7 📘](https://app.notion.com/3ef49b7c93d7813f9c4cf8cc02689e1d) | [8 📘](https://app.notion.com/3ef49b7c93d781799e28efab0b00a820) | 9 | 10 |
+| 11 | [12 🏭](https://app.notion.com/3ff49b7c93d78172a577c392ec7d0a8b) | [13 📘](https://app.notion.com/3f849b7c93d78179b457f1db947c7c6d) | [14 📘](https://app.notion.com/3fa49b7c93d781688692dc85fa8879e5) | [15 📘](https://app.notion.com/3fa49b7c93d7819dac02ef6e635530b0) | [16 📘](https://app.notion.com/3fb49b7c93d781559615d7ba1efc3793) | 17 |
+| 18 | [19 🎤](https://app.notion.com/3fe49b7c93d781a6842dfd3176a96c41) | 20 | 21 | 22 | 23 | 24 |
+| 25 | 26 | 27 | 28 | 29 | 30 | 31 |
+## PDF·강의자료 저작권 안내
+
+PDF·강의자료의 저작권은 각 권리자에게 있습니다. 이용·재배포는 원문 이용 조건과 권리자의 허용 범위를 따르며, 이 안내가 공개 배포 허락을 대신하지는 않습니다.
