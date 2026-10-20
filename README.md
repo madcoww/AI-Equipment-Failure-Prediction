@@ -36,18 +36,18 @@ VS Code 또는 Jupyter에서 `practice/`의 실습 파일을 열어 실행합니
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  |  | 1 | 2 | 3 | 4 | 5 |
 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-| 13 | 14 | [15 📘](https://app.notion.com/3e249b7c93d781fc989bfea9dd5b5f67) | [16 📘](https://app.notion.com/3e249b7c93d781a4a5f2f3736dabeb76) | [17 📘](https://app.notion.com/3e249b7c93d781aab6b8c39444b6301e) | 18 [📘](https://app.notion.com/3e249b7c93d781feadb2f474e3ac5ef3) [🎤](https://app.notion.com/3df49b7c93d781db95e5f6ac7bbfd5da) | 19 |
-| 20 | [21 📘](https://app.notion.com/3ff49b7c93d78109bddbdcb2050f425a) | [22 📘](https://app.notion.com/3e349b7c93d78149b8f1fac71f602123) | [23 🏭](https://app.notion.com/3e449b7c93d7815eba43d041c6775725) | 24 | 25 | 26 |
-| 27 | [28 📘](https://app.notion.com/3e949b7c93d7819e9e97e5c0cf7cf2aa) | [29 📘](https://app.notion.com/3ea49b7c93d7812c8951f1561c71aaf7) | [30 📘](https://app.notion.com/3eb49b7c93d7816b84dee0a21991f344) |  |  |  |
+| 13 | 14 | [15 📘](https://www.notion.so/3e249b7c93d781fc989bfea9dd5b5f67) | [16 📘](https://www.notion.so/3e249b7c93d781a4a5f2f3736dabeb76) | [17 📘](https://www.notion.so/3e249b7c93d781aab6b8c39444b6301e) | 18 [📘](https://www.notion.so/3e249b7c93d781feadb2f474e3ac5ef3) [🎤](https://www.notion.so/3df49b7c93d781db95e5f6ac7bbfd5da) | 19 |
+| 20 | [21 📘](https://www.notion.so/3ff49b7c93d78109bddbdcb2050f425a) | [22 📘](https://www.notion.so/3e349b7c93d78149b8f1fac71f602123) | [23 🏭](https://www.notion.so/3e449b7c93d7815eba43d041c6775725) | 24 | 25 | 26 |
+| 27 | [28 📘](https://www.notion.so/3e949b7c93d7819e9e97e5c0cf7cf2aa) | [29 📘](https://www.notion.so/3ea49b7c93d7812c8951f1561c71aaf7) | [30 📘](https://www.notion.so/3eb49b7c93d7816b84dee0a21991f344) |  |  |  |
 
 ### 2026년 10월
 
 | 일 | 월 | 화 | 수 | 목 | 금 | 토 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-|  |  |  |  | [1 📘](https://app.notion.com/3ec49b7c93d7819abf7aececc9db90c8) | 2 [📘](https://app.notion.com/3ed49b7c93d7815abceece89bc81ac86) [🎤](https://app.notion.com/3ed49b7c93d781f585cadf24718bd659) | 3 |
-| 4 | 5 | [6 📘](https://app.notion.com/3ef49b7c93d78112a119f33efb81c022) | [7 📘](https://app.notion.com/3ef49b7c93d7813f9c4cf8cc02689e1d) | [8 📘](https://app.notion.com/3ef49b7c93d781799e28efab0b00a820) | 9 | 10 |
-| 11 | [12 🏭](https://app.notion.com/3ff49b7c93d78172a577c392ec7d0a8b) | [13 📘](https://app.notion.com/3f849b7c93d78179b457f1db947c7c6d) | [14 📘](https://app.notion.com/3fa49b7c93d781688692dc85fa8879e5) | [15 📘](https://app.notion.com/3fa49b7c93d7819dac02ef6e635530b0) | [16 📘](https://app.notion.com/3fb49b7c93d781559615d7ba1efc3793) | 17 |
-| 18 | [19 🎤](https://app.notion.com/3fe49b7c93d781a6842dfd3176a96c41) | 20 | 21 | 22 | 23 | 24 |
+|  |  |  |  | [1 📘](https://www.notion.so/3ec49b7c93d7819abf7aececc9db90c8) | 2 [📘](https://www.notion.so/3ed49b7c93d7815abceece89bc81ac86) [🎤](https://www.notion.so/3ed49b7c93d781f585cadf24718bd659) | 3 |
+| 4 | 5 | [6 📘](https://www.notion.so/3ef49b7c93d78112a119f33efb81c022) | [7 📘](https://www.notion.so/3ef49b7c93d7813f9c4cf8cc02689e1d) | [8 📘](https://www.notion.so/3ef49b7c93d781799e28efab0b00a820) | 9 | 10 |
+| 11 | [12 🏭](https://www.notion.so/3ff49b7c93d78172a577c392ec7d0a8b) | [13 📘](https://www.notion.so/3f849b7c93d78179b457f1db947c7c6d) | [14 📘](https://www.notion.so/3fa49b7c93d781688692dc85fa8879e5) | [15 📘](https://www.notion.so/3fa49b7c93d7819dac02ef6e635530b0) | [16 📘](https://www.notion.so/3fb49b7c93d781559615d7ba1efc3793) | 17 |
+| 18 | [19 🎤](https://www.notion.so/3fe49b7c93d781a6842dfd3176a96c41) | 20 | 21 | 22 | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 ## PDF·강의자료 저작권 안내
 
