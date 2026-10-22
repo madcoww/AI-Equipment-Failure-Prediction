@@ -4,9 +4,9 @@
 
 ## 일정 진행률
 
-**32.7% · 전체 55일 중 18일 진행** — 2026년 10월 21일 기준
+**34.5% · 전체 55일 중 19일 진행** — 2026년 10월 22일 기준
 
-`███████░░░░░░░░░░░░░` 32.7%
+`███████░░░░░░░░░░░░░` 34.5%
 
 강사님 시간표의 수업·프로젝트 일자 기준이며, 개인 복습 완료율은 아닙니다. 10월 19~21일은 비직무 일정으로 진행 일수에서 제외합니다.
 
@@ -17,7 +17,7 @@
 | [practice/](practice/) | 일차별 실습 코드와 Jupyter Notebook, 실습 관련 파일 |
 | [homework/](homework/) | 과제 풀이 Notebook과 PDF |
 | [data/](data/) | CSV·Excel 데이터, 통계 학습 예제와 참고자료 |
-| [lectures/](lectures/) | 수업에 사용하는 강의 PDF |
+| [lectures/](lectures/) | 수업에 사용하는 강의 PDF·교안 |
 
 ## 학습 내용
 
@@ -55,7 +55,7 @@ VS Code 또는 Jupyter에서 `practice/`의 실습 파일을 열어 실행합니
 |  |  |  |  | [1 📘](https://www.notion.so/3ec49b7c93d7819abf7aececc9db90c8) | 2 [📘](https://www.notion.so/3ed49b7c93d7815abceece89bc81ac86) [🎤](https://www.notion.so/3ed49b7c93d781f585cadf24718bd659) | 3 |
 | 4 | 5 | [6 📘](https://www.notion.so/3ef49b7c93d78112a119f33efb81c022) | [7 📘](https://www.notion.so/3ef49b7c93d7813f9c4cf8cc02689e1d) | [8 📘](https://www.notion.so/3ef49b7c93d781799e28efab0b00a820) | 9 | 10 |
 | 11 | [12 🏭](https://www.notion.so/3ff49b7c93d78172a577c392ec7d0a8b) | [13 📘](https://www.notion.so/3f849b7c93d78179b457f1db947c7c6d) | [14 📘](https://www.notion.so/3fa49b7c93d781688692dc85fa8879e5) | [15 📘](https://www.notion.so/3fa49b7c93d7819dac02ef6e635530b0) | [16 📘](https://www.notion.so/3fb49b7c93d781559615d7ba1efc3793) | 17 |
-| 18 | [19 🎤](https://www.notion.so/3fe49b7c93d781a6842dfd3176a96c41) | 20 | 21 | 22 | 23 | 24 |
+| 18 | [19 🎤](https://www.notion.so/3fe49b7c93d781a6842dfd3176a96c41) | 20 | 21 | [22 📘](https://www.notion.so/40149b7c93d78122b1ffd8a305f5a775) | 23 | 24 |
 | 25 | 26 | 27 | 28 | 29 | 30 | 31 |
 ## PDF·강의자료 저작권 안내
 
