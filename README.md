@@ -4,9 +4,9 @@
 
 ## 일정 진행률
 
-**38.2% · 전체 55일 중 21일 진행** — 2026년 10월 26일 기준
+**41.8% · 전체 55일 중 23일 진행** — 2026년 10월 28일 기준
 
-`████████░░░░░░░░░░░░` 38.2%
+`████████░░░░░░░░░░░░` 41.8%
 
 강사님 시간표의 수업·프로젝트 일자 기준이며, 개인 복습 완료율은 아닙니다. 10월 19~21일은 비직무 일정으로 진행 일수에서 제외합니다.
 
@@ -18,6 +18,7 @@
 | [homework/](homework/) | 과제 풀이 Notebook과 PDF |
 | [data/](data/) | CSV·Excel 데이터, 통계 학습 예제와 참고자료 |
 | [lectures/](lectures/) | 수업에 사용하는 강의 PDF·교안 |
+| [web/](web/) | HTML·CSS·JavaScript 웹 기초 실습 |
 
 ## 학습 내용
 
@@ -25,12 +26,18 @@
 - NumPy·Pandas를 활용한 데이터 처리와 분석
 - MySQL·SQL 기초
 - Git·GitHub를 활용한 학습 기록 관리
+- Matplotlib·Seaborn을 활용한 시각화와 통계·확률 기초
+- HTML·CSS·JavaScript 웹 기초
 
 ## 실습 파일 사용 방법
 
 VS Code 또는 Jupyter에서 `practice/`의 실습 파일을 열어 실행합니다. Notebook(`.ipynb`)은 맨 위 코드 칸부터 차례로 실행합니다.
 
 실습에 필요한 라이브러리를 설치하고, 데이터 경로는 자신의 파일 위치에 맞게 수정해 주세요.
+
+웹 실습은 [web/first_web.html](web/first_web.html)을 브라우저에서 엽니다. CSS와 JavaScript가 상대 경로로 연결되어 있으므로 `web/` 폴더 구조를 함께 유지합니다.
+
+풍력 데이터의 구조와 컬럼 설명은 [한국어 데이터 안내](README_한국어.md)에 정리했습니다. 원본 데이터 파일은 별도로 준비해야 합니다.
 
 ## 노션 정리본 달력
 
@@ -56,7 +63,7 @@ VS Code 또는 Jupyter에서 `practice/`의 실습 파일을 열어 실행합니
 | 4 | 5 | [6 📘](https://www.notion.so/3ef49b7c93d78112a119f33efb81c022) | [7 📘](https://www.notion.so/3ef49b7c93d7813f9c4cf8cc02689e1d) | [8 📘](https://www.notion.so/3ef49b7c93d781799e28efab0b00a820) | 9 | 10 |
 | 11 | [12 🏭](https://www.notion.so/3ff49b7c93d78172a577c392ec7d0a8b) | [13 📘](https://www.notion.so/3f849b7c93d78179b457f1db947c7c6d) | [14 📘](https://www.notion.so/3fa49b7c93d781688692dc85fa8879e5) | [15 📘](https://www.notion.so/3fa49b7c93d7819dac02ef6e635530b0) | [16 📘](https://www.notion.so/3fb49b7c93d781559615d7ba1efc3793) | 17 |
 | 18 | [19 🎤](https://www.notion.so/3fe49b7c93d781a6842dfd3176a96c41) | 20 | 21 | [22 📘](https://www.notion.so/40149b7c93d78122b1ffd8a305f5a775) | 23 [📘](https://www.notion.so/40249b7c93d78131b3eaf50d40636e96) [📊](https://www.notion.so/40249b7c93d78112b1b7f6d4fc628ec7) | 24 |
-| 25 | [26 📘](https://www.notion.so/40549b7c93d781ab99f0e18f23c5b375) | 27 | 28 | 29 | 30 | 31 |
+| 25 | [26 📘](https://www.notion.so/40549b7c93d781ab99f0e18f23c5b375) | [27 📘](https://www.notion.so/40749b7c93d7812788bcf9026f7f077c) | 28 | 29 | 30 | 31 |
 ## PDF·강의자료 저작권 안내
 
 PDF·강의자료의 저작권은 각 권리자에게 있습니다. 이용·재배포는 원문 이용 조건과 권리자의 허용 범위를 따르며, 이 안내가 공개 배포 허락을 대신하지는 않습니다.
