@@ -19,6 +19,7 @@
 | [data/](data/) | CSV·Excel 데이터, 통계 학습 예제와 참고자료 |
 | [lectures/](lectures/) | 수업에 사용하는 강의 PDF·교안 |
 | [web/](web/) | HTML·CSS·JavaScript 웹 기초 실습 |
+| [tenserflow/](tenserflow/) | TensorFlow 딥러닝 기초 노트와 타이타닉 실습 |
 
 ## 학습 내용
 
@@ -28,6 +29,8 @@
 - Git·GitHub를 활용한 학습 기록 관리
 - Matplotlib·Seaborn을 활용한 시각화와 통계·확률 기초
 - HTML·CSS·JavaScript 웹 기초
+- 시계열 데이터 분석: 시간 인덱스·집계, 추세·변동성, 리샘플링과 결측·누락 시점 전처리 (NASA C-MAPSS 데이터)
+- TensorFlow 딥러닝 기초 (타이타닉 실습)
 
 ## 실습 파일 사용 방법
 
@@ -36,8 +39,6 @@ VS Code 또는 Jupyter에서 `practice/`의 실습 파일을 열어 실행합니
 실습에 필요한 라이브러리를 설치하고, 데이터 경로는 자신의 파일 위치에 맞게 수정해 주세요.
 
 웹 실습은 [web/first_web.html](web/first_web.html)을 브라우저에서 엽니다. CSS와 JavaScript가 상대 경로로 연결되어 있으므로 `web/` 폴더 구조를 함께 유지합니다.
-
-풍력 데이터의 구조와 컬럼 설명은 [한국어 데이터 안내](README_한국어.md)에 정리했습니다. 원본 데이터 파일은 별도로 준비해야 합니다.
 
 ## 노션 정리본 달력
 
