@@ -1,6 +1,8 @@
-AGENTS.md
+CLAUDE.md
 /.vscode/
 /mysql/
+/outputs/
+/anomaly-dashboard-fullstack_17_261028_1/
 
 # Local environment and secrets
 .env
@@ -32,3 +34,6 @@ Desktop.ini
 data/15_01_사출성형_공정 - 복사본.csv
 data/15_02_사출성형_공정 - 복사본.csv
 data/15_사출성형_로그 - 복사본.csv
+
+# GitHub 100MB 제한 초과 데이터
+/data/pj_practice/st12000nm0008_2024Q2-2026Q2.parquet
